@@ -18,6 +18,8 @@ author_profile: true
 
 Policy Proposal, [SDLECC](https://aftguild.org/LECC/), Presented w/Mikaiil Hussein (President, UTWSD) & Peter Zschiesche (Board Member, UTWSD)
 
+---
+
 ## [Just Platforms: Reinventing Taxis as Public Infrastructure](https://drive.google.com/file/d/1jsGWiTAnyuF1p-sU52e1A2CsLxVQqi0v/view?usp=sharing)
 <i class="fa fa-clock" aria-hidden="true">November 18, 2021</i>
 
@@ -26,15 +28,21 @@ Poster presentation, [Design and Innovation Building Grand Opening](https://desi
   <img src='/images/talk_nov_18.jpg' alt="">
 </div>
 
+---
+
 ## [Public Platforms: An approach for creating equitable infrastructures](https://docs.google.com/presentation/d/1jYYyZ42p0x1pco0Ev6oH__tuBBhFz47M/edit?usp=sharing&ouid=102224158053153780142&rtpof=true&sd=true)
 <i class="fa fa-clock" aria-hidden="true">February 4, 2021</i>
 
 Short presentation, [The Design Lab Showcase 2021](https://designlab.ucsd.edu/events/design-lab-showcase-2021/)
 
+---
+
 ### Presentations@UCSD
 - **15th Feb 2022**: [Community-Based Infrastructure Transitions: Design Justice for Civic Tech Infrastructures](https://docs.google.com/presentation/d/1b7VLK2vbAmp7H-3_ra7G66UjQzVJUnNFoR_OPdQkvC0/edit?usp=sharing)
 - **10th Nov 2021**: [Smart Urban Systems: The Security-Transparency Double Bind](https://docs.google.com/presentation/d/1A2N9gYbaiBXLNEtM4nvcx38k9ZxJJuF92396EQCh6j4/edit?usp=sharing)
 - **11th Feb 2020** (Presented w/Lu Sun): [Guiding Designers to Reflect on Messy Feedback]()
+
+---
 
 ### Past Talks
 - **FOSSASIA 2017**: Integrating coala into a developer's workflow

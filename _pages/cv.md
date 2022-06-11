@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
+You can <a href="https://udayan.info/files/Academic_CV.pdf">download my CV here.</a>
