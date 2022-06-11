@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Udayan Tandon, a 3rd Year Ph.D. Student in the [Department of Computer Science](https://cse.ucsd.edu/) at University of California, San Diego. I'm advised by [Dr. Lilly Irani](https://quote.ucsd.edu/lirani/) and am part of the [Feminist Labor Lab](https://feministlabor.ucsd.edu/), [Just Transitions Initiative](https://justtransitions.ucsd.edu/), and [The Design Lab](https://designlab.ucsd.edu/). I'm also co-advised by [Dr. Kristen Vaccaro](http://kvaccaro.com/). I'm an [Institute of Practical Ethics Fellow](https://ipe.ucsd.edu/our-researchers/index.html) and a [3C Fellow](https://identity.cs.duke.edu/fellows.html) for the 2021-22 cycle.
+Hello! I'm Udayan Tandon, a 3rd Year Ph.D. Student in the [Department of Computer Science](https://cse.ucsd.edu/) at University of California, San Diego. I'm advised by [Dr. Lilly Irani](https://quote.ucsd.edu/lirani/) and am part of the [Feminist Labor Lab](https://feministlabor.ucsd.edu/), [Just Transitions Initiative](https://justtransitions.ucsd.edu/), and [The Design Lab](https://designlab.ucsd.edu/). I'm also co-advised by [Dr. Kristen Vaccaro](http://kvaccaro.com/). I'm an [Institute of Practical Ethics Fellow](https://ipe.ucsd.edu/our-researchers/index.html) and a [3C Fellow](https://identity.cs.duke.edu/cohort2.html) for the 2021-22 cycle.
 
 # Research
 

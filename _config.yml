@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Udayan Tandon"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student at UC San Diego, <a style='color: black;' href='https://cse.ucsd.edu/'>Department of Computer Science</a>"
+  bio              : "Ph.D. Student at UC San Diego, <a style='color: black;' href='https://cse.ucsd.edu/'>Department of Computer Science</a>
+  \n <br/> <a style='color: black;' href='https://ipe.ucsd.edu/our-researchers/index.html'>IPE Fellow</a>
+  \n <br/> <a style='color: black;' href='https://identity.cs.duke.edu/cohort2.html'>3C Fellow</a>"
   location         : "San Diego, CA, USA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
