@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-## [Hostile Ecologies: Navigating the Barriers to Community-Led Innovation](https://escholarship.org/uc/item/6xj932f8)
+## [🏆 Hostile Ecologies: Navigating the Barriers to Community-Led Innovation](https://escholarship.org/uc/item/6xj932f8)
 
-Published in *Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)*, 2022
+Published in *Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)*, 2022 (🏆 Honorable mention for being top 4% of all papers)
 
 *An alternative version of this paper titled "Barriers to community-led real utopias: A case study of taxis in San Diego" was presented at [The Beyster Symposium '22](https://smlr.rutgers.edu/BeysterProgram2022) and [Society for the Advancement of Socio-Economics '22](https://sase.org/event/2022-amsterdam/). The PDF is available [here](https://udayan.info/files/real_utopias.pdf).*
 
@@ -22,6 +22,7 @@ This paper describes how the contemporary technology innovation ecology is hosti
 Recommended Citation: **Udayan Tandon**, Vera Khovanskaya, Enrique Arcilla, Mikaiil Haji Hussein, Peter Zschiesche, and Lilly Irani. 2022. Hostile Ecologies: Navigating the Barriers to Community-Led Innovation. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 443 (November 2022), 26 pages. https://doi.org/10.1145/3555544
 
 # Policy Reports
+
 ## [Transportation for Smart and Equitable Cities: Integrating Taxis and Mass Transit for Access, Emissions Reduction, and Planning](https://zenodo.org/record/5225091)
 
 Policy report synthesizing independent research on impacts of transportation network companies (TNCs) such as Uber and Lyft on local safety, economies, and social equity. Outline of a vision for creating publicly regulated and supported "first mile last mile" transportation" that overcomes these issues.
